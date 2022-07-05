@@ -1,4 +1,4 @@
-# Direct Behavior Specification via Constrained RL
+# Direct Behavior Specification via Constrained RL (c) Ubisoft 2022
 
 Code to reproduce the Arena environment experiments from [Direct Behavior Specification via Constrained Reinforcement Learning](https://arxiv.org/abs/2112.12228). See installation and run procedures below.
 
