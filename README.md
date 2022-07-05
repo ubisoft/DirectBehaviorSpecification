@@ -2,6 +2,12 @@
 
 Code to reproduce the Arena environment experiments from [Direct Behavior Specification via Constrained Reinforcement Learning](https://arxiv.org/abs/2112.12228). See installation and run procedures below.
 
+## License
+
+Please read the [license](./LICENSE.txt).
+Here's a [summary](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
 ## Installation
 
 * Create a conda environment: `conda create --name dbs python=3.8.8`
